@@ -1,0 +1,3 @@
+-keep class com.kreedaankana.model.** { *; }
+-keep class com.google.firebase.** { *; }
+-dontwarn com.google.firebase.**
