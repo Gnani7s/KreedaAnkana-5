@@ -1,26 +1,36 @@
 {
   "project_info": {
-    "project_number": "YOUR_PROJECT_NUMBER",
-    "project_id": "YOUR_PROJECT_ID",
-    "storage_bucket": "YOUR_PROJECT_ID.appspot.com"
+    "project_number": "458325175882",
+    "project_id": "kreedaankana-4dc2e",
+    "storage_bucket": "kreedaankana-4dc2e.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:YOUR_PROJECT_NUMBER:android:YOUR_APP_HASH",
+        "mobilesdk_app_id": "1:458325175882:android:5677d4fcf5b459c3c780b3",
         "android_client_info": {
           "package_name": "com.kreedaankana"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "458325175882-u1fh60j07naqn3eo62tv95ur7qn4do3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "YOUR_API_KEY"
+          "current_key": "AIzaSyAZGwXjTmoXUj7NNz7TM_JcIeX2pWPdfGg"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458325175882-u1fh60j07naqn3eo62tv95ur7qn4do3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
